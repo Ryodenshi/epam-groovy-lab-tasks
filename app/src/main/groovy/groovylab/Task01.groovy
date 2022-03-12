@@ -1,12 +1,8 @@
-/**
-Sum 2 numbers. Example:
-Task01.sum(1,4) == 5
-*/
-
 package groovylab
 
-class Task01 {
+class first {
     public static int sum(int a, int b) {
-        throw UnsupportedOperationException('Not Implemented!')
+        int c = (a+b)
+        return(c)
     }
 }
