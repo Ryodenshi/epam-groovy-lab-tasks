@@ -1,6 +1,6 @@
 package groovylab
 
-class secondt {
+class Task02 {
     public static List mulEvenOdd(List l) {
         def isEven = { int x -> x % 2 == 0}
         l.eachWithIndex { it, index ->

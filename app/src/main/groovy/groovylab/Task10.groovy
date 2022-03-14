@@ -1,6 +1,6 @@
 package groovylab
 
-class ten {
+class Task10 {
     public static String urlText(String url) {
     def get = new URL(url).openConnection()
     def getRC = get.getResponseCode()

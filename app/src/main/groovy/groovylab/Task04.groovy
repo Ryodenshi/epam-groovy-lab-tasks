@@ -1,6 +1,6 @@
 package groovylab
 
-class fourth{
+class Task04 {
     public static int fib(int n) {
         switch (n) {
         case 1..2: 1; break
